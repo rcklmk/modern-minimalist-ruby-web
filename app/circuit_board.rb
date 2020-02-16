@@ -1,3 +1,5 @@
+require_relative './controllers/bills_controller'
+
 class CircuitBoard < Sinatra::Base
   # common settings
   set :public_folder, "#{settings.root}/public"

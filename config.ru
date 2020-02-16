@@ -20,7 +20,6 @@ APP_BASE = [
 
 APP = [
   './app/helpers/numbers',
-  './app/controllers/bills_controller',
   './app/circuit_board'
 ]
 
