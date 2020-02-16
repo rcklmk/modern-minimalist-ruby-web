@@ -1,0 +1,10 @@
+ja:
+  system:
+    label:
+      submit: 送信
+      delete: 削除
+  app:
+    bill:
+      gas: ガス
+      electricity: 電気
+      water: 水道
